@@ -1,0 +1,6 @@
+{
+  "name": "LUNARA - Mỹ Phẩm Thuần Chay & Admin CMS",
+  "description": "Thương hiệu mỹ phẩm thuần chay 100% hữu cơ LUNARA - Sàn thương mại điện tử và Cổng quản trị CMS/CRM đa kênh chuẩn Sapo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
